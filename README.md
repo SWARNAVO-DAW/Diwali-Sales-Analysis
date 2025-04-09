@@ -53,6 +53,6 @@ This project involves detailed exploratory data analysis (EDA) of a Diwali sales
 📈 Business Impact
 Helped identify key customer demographics and regional markets to focus on.
 
-Provided a foundation for targeted marketing, stock management, and campaign planning.
+- Provided a foundation for targeted marketing, stock management, and campaign planning.
 
-Gave real-time insights that can increase profitability during high-demand seasons like Diwali.
+- Gave real-time insights that can increase profitability during high-demand seasons like Diwali.
