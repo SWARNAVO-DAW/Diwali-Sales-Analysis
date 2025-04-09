@@ -12,43 +12,43 @@ This project involves detailed exploratory data analysis (EDA) of a Diwali sales
 - Jupyter Notebook
 
 🎯 Key Outcomes & Insights
-Customer Segmentation by Age & Gender
+1.Customer Segmentation by Age & Gender
 
-Majority of purchases were made by males (76%) in the age group of 26-35 years.
+- Majority of purchases were made by males (76%) in the age group of 26-35 years.
 
-Recommendation: Focus marketing campaigns on this demographic.
+- Recommendation: Focus marketing campaigns on this demographic.
 
-Top Performing States
+2.Top Performing States
 
-Uttar Pradesh, Maharashtra, and Karnataka had the highest sales.
+- Uttar Pradesh, Maharashtra, and Karnataka had the highest sales.
 
-Business Insight: These states can be prioritized for inventory and promotions.
+- Business Insight: These states can be prioritized for inventory and promotions.
 
-Occupation & Spending Habits
+3.Occupation & Spending Habits
 
-Customers with occupations like IT Sector and Healthcare spent more.
+- Customers with occupations like IT Sector and Healthcare spent more.
 
-Insight: Personalized marketing can be created for these professions.
+- Insight: Personalized marketing can be created for these professions.
 
-Product Categories
+4.Product Categories
 
-Clothing & Apparel, Food & Beverage, and Electronics were the top-selling categories.
+- Clothing & Apparel, Food & Beverage, and Electronics were the top-selling categories.
 
-Business Strategy: Stock more of these products and bundle them during offers.
+- Business Strategy: Stock more of these products and bundle them during offers.
 
-Marital Status Impact
+5.Marital Status Impact
 
-Unmarried individuals were the major contributors to the sales.
+- Unmarried individuals were the major contributors to the sales.
 
-Suggestion: Tailor promotions like “Single's Festive Offers.”
+- Suggestion: Tailor promotions like “Single's Festive Offers.”
 
-City-Wise Sales
+6.City-Wise Sales
 
-Tier 1 cities had the highest number of orders, suggesting better customer responsiveness.
+- Tier 1 cities had the highest number of orders, suggesting better customer responsiveness.
 
-Visualization of Buying Trends
+7.Visualization of Buying Trends
 
-Created bar plots, histograms, and pie charts to visualize customer behavior and sales distribution.
+- Created bar plots, histograms, and pie charts to visualize customer behavior and sales distribution.
 
 📈 Business Impact
 Helped identify key customer demographics and regional markets to focus on.
