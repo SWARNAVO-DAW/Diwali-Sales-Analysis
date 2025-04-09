@@ -3,13 +3,13 @@
 This project involves detailed exploratory data analysis (EDA) of a Diwali sales dataset. The objective was to derive actionable business insights to help the company target the right customers, optimize marketing strategies, and boost revenue during the festive season.
 
 🔍 Tools & Technologies Used
-Python 🐍
+- Python 🐍
 
-Pandas & NumPy
+- Pandas & NumPy
 
-Matplotlib & Seaborn
+- Matplotlib & Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 🎯 Key Outcomes & Insights
 Customer Segmentation by Age & Gender
